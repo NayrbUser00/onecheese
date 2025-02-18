@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        //Question1();
+        Question1();
 
-        //Question2();
+        Question2();
 
         }
         public  static void Question1(){
