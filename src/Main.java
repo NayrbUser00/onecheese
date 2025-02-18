@@ -46,6 +46,7 @@ public class Main {
 
             System.out.println("Question #3");
             Rectangle r = new Rectangle(55, 29);
+            r.ObjectInfo();
             System.out.println("Area of the Rectange was "+ r.Area());
             System.out.println("Perimeter of the Rectangle was "+ r.Perimeter());
         }
